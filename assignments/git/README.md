@@ -1,8 +1,8 @@
 # Overview
 
-Create git account
-Clone
-Add
-Commit files
-Push
-Pull
+* Create git account
+* Clone
+* Add
+* Commit files
+* Push
+* Pull
