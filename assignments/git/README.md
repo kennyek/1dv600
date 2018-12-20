@@ -1,8 +1,8 @@
 # Overview
 
-* Create git account
+* Create GitHub account
 * Clone
-* Add
+* Add (stage files)
 * Commit files
 * Push
 * Pull
